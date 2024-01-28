@@ -135,6 +135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Bus Stop (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 8fa324388c16b5c4eac9846338b35b17, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8fa324388c16b5c4eac9846338b35b17, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -296,6 +300,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d20839e362efa3d4baa3d2ce1b4f2df4, type: 3}
       propertyPath: m_Name
       value: Vehicle_Container_color03
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d20839e362efa3d4baa3d2ce1b4f2df4, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d20839e362efa3d4baa3d2ce1b4f2df4, type: 3}
       propertyPath: m_LocalScale.x
@@ -523,6 +531,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Dustbin (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d59a4f6080634af41a616bc51af1d2d9, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d59a4f6080634af41a616bc51af1d2d9, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -605,6 +617,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 979de0ac65f6d2b48a89e9088986637f, type: 3}
       propertyPath: m_Name
       value: Vehicle_Container_color01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 979de0ac65f6d2b48a89e9088986637f, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 979de0ac65f6d2b48a89e9088986637f, type: 3}
       propertyPath: m_LocalScale.x
@@ -855,6 +871,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natures_Rock_small
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 9ec25066ec33fa84d9227e27c5f5a8a0, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9ec25066ec33fa84d9227e27c5f5a8a0, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -1017,6 +1037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Building Sky_small_color02
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: cc0981408e7c8db4f9f80a57938fd5e3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: cc0981408e7c8db4f9f80a57938fd5e3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -1099,6 +1123,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: d59a4f6080634af41a616bc51af1d2d9, type: 3}
       propertyPath: m_Name
       value: Props_Dustbin
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d59a4f6080634af41a616bc51af1d2d9, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d59a4f6080634af41a616bc51af1d2d9, type: 3}
       propertyPath: m_LocalScale.x
@@ -1216,6 +1244,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_Name
       value: Natures_Grass Bar (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_LocalScale.x
@@ -1484,6 +1516,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Coffee shop chair (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.082250364
@@ -1686,6 +1722,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Hydrant (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.16450073
@@ -1872,6 +1912,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Signal_small
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -1954,6 +1998,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
       propertyPath: m_Name
       value: Props_Bench_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
       propertyPath: m_LocalScale.x
@@ -2106,6 +2154,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 00b78b03851cb0748b61d9005fb73b49, type: 3}
       propertyPath: m_Name
       value: Building_Stadium
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 00b78b03851cb0748b61d9005fb73b49, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 00b78b03851cb0748b61d9005fb73b49, type: 3}
       propertyPath: m_LocalScale.x
@@ -2380,6 +2432,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Signal_small (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -2462,6 +2518,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
       propertyPath: m_Name
       value: Props_Coffee shop chair
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
       propertyPath: m_LocalScale.x
@@ -2585,6 +2645,10 @@ PrefabInstance:
     - target: {fileID: 100002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
       propertyPath: m_Name
       value: Props_Windmill (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
       propertyPath: m_LocalScale.x
@@ -2748,6 +2812,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vehicle_Pick up Truck_color02_separate
       objectReference: {fileID: 0}
+    - target: {fileID: 100010, guid: b1969db97c2d8604ba4bfe3000a13858, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400008, guid: b1969db97c2d8604ba4bfe3000a13858, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -2905,6 +2973,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 6458a4c9f91f22741a5064b5b7cfd892, type: 3}
       propertyPath: m_Name
       value: Props_Bench_2 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6458a4c9f91f22741a5064b5b7cfd892, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6458a4c9f91f22741a5064b5b7cfd892, type: 3}
       propertyPath: m_LocalScale.x
@@ -3096,6 +3168,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Signal_small (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -3174,6 +3250,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_Name
       value: Props_Traffic Signal_small (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
@@ -3325,6 +3405,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_Name
       value: Natures_Grass Bar (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_LocalScale.x
@@ -3549,6 +3633,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natures_Big Tree
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -3742,6 +3830,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natures_Grass Bar
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -3814,6 +3906,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
       propertyPath: m_Name
       value: Props_Hydrant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
       propertyPath: m_LocalScale.x
@@ -3973,6 +4069,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Signal_small (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -4090,6 +4190,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natures_Big Tree (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -4166,6 +4270,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 52f3bf47c9c62af4588469ff668b805c, type: 3}
       propertyPath: m_Name
       value: Props_Traffic cone (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 52f3bf47c9c62af4588469ff668b805c, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 52f3bf47c9c62af4588469ff668b805c, type: 3}
       propertyPath: m_LocalScale.x
@@ -4353,6 +4461,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vehicle_Police Car
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1af0a2c8773f85c40bdb120f32cd8a8a, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1af0a2c8773f85c40bdb120f32cd8a8a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.08698119
@@ -4457,6 +4569,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 11c264ca1bac5d74d883c776435fa684, type: 3}
       propertyPath: m_Name
       value: Building_House_03_color01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 11c264ca1bac5d74d883c776435fa684, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 11c264ca1bac5d74d883c776435fa684, type: 3}
       propertyPath: m_LocalScale.x
@@ -4629,6 +4745,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   joystick: {fileID: 1431698348}
   moveSpeed: 5
+  growthRate: 0.1
 --- !u!4 &656577590 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1746254266618234798, guid: a0b1c0afd0c1fa446b01fef3488c1240,
@@ -4657,10 +4774,10 @@ Rigidbody:
     m_Bits: 0
   m_ImplicitCom: 1
   m_ImplicitTensor: 1
-  m_UseGravity: 1
+  m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 64
   m_CollisionDetection: 0
 --- !u!136 &656577592
 CapsuleCollider:
@@ -4677,7 +4794,7 @@ CapsuleCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -4696,6 +4813,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 1d3fc70685d97b748ac1264d8da02551, type: 3}
       propertyPath: m_Name
       value: Building Sky_big_color03
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1d3fc70685d97b748ac1264d8da02551, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1d3fc70685d97b748ac1264d8da02551, type: 3}
       propertyPath: m_LocalScale.x
@@ -4779,6 +4900,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 9b25e71fd5b7ac6469539d930c6dc2e6, type: 3}
       propertyPath: m_Name
       value: Vehicle_Ambulance
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 9b25e71fd5b7ac6469539d930c6dc2e6, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9b25e71fd5b7ac6469539d930c6dc2e6, type: 3}
       propertyPath: m_LocalScale.x
@@ -4884,6 +5009,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_Name
       value: Natures_Big Tree (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_LocalScale.x
@@ -5308,6 +5437,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Building_Music Store
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1682119d19a954f4a8020f36112606ed, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1682119d19a954f4a8020f36112606ed, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -5653,6 +5786,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Street Light (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.032900147
@@ -5764,6 +5901,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Signal_small (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -5846,6 +5987,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 484404636ac422042a24ac95512dc2d3, type: 3}
       propertyPath: m_Name
       value: Props_Traffic Control Barrier Fence (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 484404636ac422042a24ac95512dc2d3, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 484404636ac422042a24ac95512dc2d3, type: 3}
       propertyPath: m_LocalScale.x
@@ -6043,6 +6188,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Building_Shoes Shop
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 52f969fb493f02248ba2e0ab07d6d81f, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 52f969fb493f02248ba2e0ab07d6d81f, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -6154,6 +6303,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natures_Big Tree (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -6258,6 +6411,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_Name
       value: Natures_Grass Bar (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_LocalScale.x
@@ -6577,6 +6734,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natures_Big Tree (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -6653,6 +6814,10 @@ PrefabInstance:
     - target: {fileID: 100002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
       propertyPath: m_Name
       value: Props_Windmill (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
       propertyPath: m_LocalScale.x
@@ -6850,6 +7015,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Bench_1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -6957,6 +7126,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Building_Auto Service
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 121f662ea65e2cf40a50c66470757a9e, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 121f662ea65e2cf40a50c66470757a9e, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -7061,6 +7234,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 9500f0cdde0097a4aac35ced7c1935d7, type: 3}
       propertyPath: m_Name
       value: Vehicle_Bus_color01 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 9500f0cdde0097a4aac35ced7c1935d7, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9500f0cdde0097a4aac35ced7c1935d7, type: 3}
       propertyPath: m_LocalScale.x
@@ -7282,6 +7459,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Windmill
       objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.08698119
@@ -7490,6 +7671,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Hydrant
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.082250364
@@ -7595,6 +7780,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vehicle_Car_color01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a119eb0fa059db34bbaef286c1af1696, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a119eb0fa059db34bbaef286c1af1696, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.08698119
@@ -7689,6 +7878,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 993432d7809c9bf489a5a96006618fef, type: 3}
       propertyPath: m_Name
       value: Vehicle_Truck_color03
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 993432d7809c9bf489a5a96006618fef, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 993432d7809c9bf489a5a96006618fef, type: 3}
       propertyPath: m_LocalScale.x
@@ -7852,6 +8045,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Control Barrier Fence (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 484404636ac422042a24ac95512dc2d3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 484404636ac422042a24ac95512dc2d3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.082250364
@@ -7935,6 +8132,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Hydrant (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.16450073
@@ -8009,6 +8210,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_Name
       value: Natures_Big Tree (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_LocalScale.x
@@ -8086,6 +8291,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 8fa324388c16b5c4eac9846338b35b17, type: 3}
       propertyPath: m_Name
       value: Props_Bus Stop (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 8fa324388c16b5c4eac9846338b35b17, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8fa324388c16b5c4eac9846338b35b17, type: 3}
       propertyPath: m_LocalScale.x
@@ -8170,6 +8379,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Control Barrier Fence (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 484404636ac422042a24ac95512dc2d3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 484404636ac422042a24ac95512dc2d3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.082250364
@@ -8252,6 +8465,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 6458a4c9f91f22741a5064b5b7cfd892, type: 3}
       propertyPath: m_Name
       value: Props_Bench_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6458a4c9f91f22741a5064b5b7cfd892, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6458a4c9f91f22741a5064b5b7cfd892, type: 3}
       propertyPath: m_LocalScale.x
@@ -8422,6 +8639,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_Name
       value: Natures_Big Tree (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_LocalScale.x
@@ -8608,6 +8829,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: b549b1699e4cdad44b2c014041303df4, type: 3}
       propertyPath: m_Name
       value: Props_BillBoard_small
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b549b1699e4cdad44b2c014041303df4, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b549b1699e4cdad44b2c014041303df4, type: 3}
       propertyPath: m_LocalScale.x
@@ -8872,6 +9097,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vehicle_Bus_color01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 9500f0cdde0097a4aac35ced7c1935d7, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 9500f0cdde0097a4aac35ced7c1935d7, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.08698119
@@ -8977,6 +9206,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Bus Stop
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 8fa324388c16b5c4eac9846338b35b17, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8fa324388c16b5c4eac9846338b35b17, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -9061,6 +9294,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_Name
       value: Props_Traffic Signal_small (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
@@ -9215,6 +9452,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Bench_1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -9366,6 +9607,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 00d77ce56096de34eb6645947a0f8925, type: 3}
       propertyPath: m_Name
       value: Vehicle_SUV_color03
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 00d77ce56096de34eb6645947a0f8925, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 00d77ce56096de34eb6645947a0f8925, type: 3}
       propertyPath: m_LocalScale.x
@@ -9524,6 +9769,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_Name
       value: Natures_Grass Bar (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_LocalScale.x
@@ -9727,6 +9976,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Coffee shop chair (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.082250364
@@ -9831,6 +10084,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 260808cfd9b21994d8c3007a7bc9934c, type: 3}
       propertyPath: m_Name
       value: Building_Gas Station
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 260808cfd9b21994d8c3007a7bc9934c, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 260808cfd9b21994d8c3007a7bc9934c, type: 3}
       propertyPath: m_LocalScale.x
@@ -10115,6 +10372,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Signal_small (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -10297,6 +10558,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Bench_2 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6458a4c9f91f22741a5064b5b7cfd892, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6458a4c9f91f22741a5064b5b7cfd892, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -10413,6 +10678,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
       propertyPath: m_Name
       value: Props_Street Light (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
       propertyPath: m_LocalScale.x
@@ -10758,6 +11027,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Street Light (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.032900147
@@ -10840,6 +11113,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 1d53359c70324d14c989d7058b50ec6b, type: 3}
       propertyPath: m_Name
       value: Building_Pizza
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 1d53359c70324d14c989d7058b50ec6b, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 1d53359c70324d14c989d7058b50ec6b, type: 3}
       propertyPath: m_LocalScale.x
@@ -11057,6 +11334,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Building_Fruits  Shop
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 931fa17f0ab17504bbfc8903e54e6a16, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 931fa17f0ab17504bbfc8903e54e6a16, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -11162,6 +11443,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Bench_1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -11234,6 +11519,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 52f3bf47c9c62af4588469ff668b805c, type: 3}
       propertyPath: m_Name
       value: Props_Traffic cone
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 52f3bf47c9c62af4588469ff668b805c, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 52f3bf47c9c62af4588469ff668b805c, type: 3}
       propertyPath: m_LocalScale.x
@@ -11492,6 +11781,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Street Light (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.032900147
@@ -11723,6 +12016,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vehicle_Bus_color03
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f269a0a343ed94c4e908a388c940ea06, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f269a0a343ed94c4e908a388c940ea06, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.082250364
@@ -11827,6 +12124,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 52f3bf47c9c62af4588469ff668b805c, type: 3}
       propertyPath: m_Name
       value: Props_Traffic cone (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 52f3bf47c9c62af4588469ff668b805c, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 52f3bf47c9c62af4588469ff668b805c, type: 3}
       propertyPath: m_LocalScale.x
@@ -12253,6 +12554,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Signal_small (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -12357,6 +12662,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: c3e95e72d6dba334594c3c5c37fcf18a, type: 3}
       propertyPath: m_Name
       value: Building_Super Market
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c3e95e72d6dba334594c3c5c37fcf18a, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c3e95e72d6dba334594c3c5c37fcf18a, type: 3}
       propertyPath: m_LocalScale.x
@@ -12679,6 +12988,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Coffee shop chair (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.082250364
@@ -12783,6 +13096,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: b74c48c2e73e17c418c9394124b75daf, type: 3}
       propertyPath: m_Name
       value: Natures_Grass Tile
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b74c48c2e73e17c418c9394124b75daf, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b74c48c2e73e17c418c9394124b75daf, type: 3}
       propertyPath: m_LocalScale.x
@@ -12975,6 +13292,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Vehicle_Bus_color02
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 79ef5961b86276943ab5da38ae9f2e4b, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 79ef5961b86276943ab5da38ae9f2e4b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.08698119
@@ -13107,6 +13428,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bc532b78ce09f234ea01da2deecfe035, type: 3}
       propertyPath: m_Name
       value: Building_Restaurant
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bc532b78ce09f234ea01da2deecfe035, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bc532b78ce09f234ea01da2deecfe035, type: 3}
       propertyPath: m_LocalScale.x
@@ -13246,6 +13571,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_Name
       value: Props_Traffic Signal_small (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
@@ -13546,6 +13875,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natures_Grass Bar (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -13620,6 +13953,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bc532b78ce09f234ea01da2deecfe035, type: 3}
       propertyPath: m_Name
       value: Building_Restaurant (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bc532b78ce09f234ea01da2deecfe035, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bc532b78ce09f234ea01da2deecfe035, type: 3}
       propertyPath: m_LocalScale.x
@@ -13731,6 +14068,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
       propertyPath: m_Name
       value: Props_Bench_1 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
       propertyPath: m_LocalScale.x
@@ -14043,6 +14384,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Signal_small (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -14175,6 +14520,10 @@ PrefabInstance:
     - target: {fileID: 100002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
       propertyPath: m_Name
       value: Props_Windmill (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 0b6fafa63b69b174584365f2641586a4, type: 3}
       propertyPath: m_LocalScale.x
@@ -14394,6 +14743,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Bench_1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 62125825e49febf4a89f76daf85d9ca7, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -14466,6 +14819,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 0ee37198b24b2164fbbccfbe92fe5d35, type: 3}
       propertyPath: m_Name
       value: Road Split Line
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0ee37198b24b2164fbbccfbe92fe5d35, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0ee37198b24b2164fbbccfbe92fe5d35, type: 3}
       propertyPath: m_LocalScale.x
@@ -14570,6 +14927,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natures_Big Tree (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b82e76f4092b7d24aaeecddf36fe8d3b, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -14646,6 +15007,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_Name
       value: Natures_Grass Bar (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_LocalScale.x
@@ -15117,6 +15482,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Natures_Grass Bar (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: c07ada992c3586e4dbf557bc4b8718cf, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -15189,6 +15558,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
       propertyPath: m_Name
       value: Props_Coffee shop chair (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 97229e82747352a43b48688ec573f8e4, type: 3}
       propertyPath: m_LocalScale.x
@@ -15391,6 +15764,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Traffic Control Barrier Fence
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 484404636ac422042a24ac95512dc2d3, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 484404636ac422042a24ac95512dc2d3, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.082250364
@@ -15524,6 +15901,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Street Light
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.032900147
@@ -15628,6 +16009,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: f6674c1362ba984468bc1e71a2323d66, type: 3}
       propertyPath: m_Name
       value: Building_Factory
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f6674c1362ba984468bc1e71a2323d66, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f6674c1362ba984468bc1e71a2323d66, type: 3}
       propertyPath: m_LocalScale.x
@@ -15768,6 +16153,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Building_Residential_color01
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 921b4e33443ab5943afa3c4841e74cae, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 921b4e33443ab5943afa3c4841e74cae, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.052188713
@@ -15872,6 +16261,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_Name
       value: Props_Traffic Signal_small (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 2857b989c828950448ead142ca28e4a3, type: 3}
       propertyPath: m_LocalScale.x
@@ -16519,6 +16912,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Dustbin (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: d59a4f6080634af41a616bc51af1d2d9, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: d59a4f6080634af41a616bc51af1d2d9, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -16623,6 +17020,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 79ef5961b86276943ab5da38ae9f2e4b, type: 3}
       propertyPath: m_Name
       value: Vehicle_Bus_color02 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 79ef5961b86276943ab5da38ae9f2e4b, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 79ef5961b86276943ab5da38ae9f2e4b, type: 3}
       propertyPath: m_LocalScale.x
@@ -16939,6 +17340,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Street Light (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: b8ee657c6800ab849bb30b4375d02323, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.032900147
@@ -17078,6 +17483,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Bench_2 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6458a4c9f91f22741a5064b5b7cfd892, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 6458a4c9f91f22741a5064b5b7cfd892, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -17182,6 +17591,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 0ee37198b24b2164fbbccfbe92fe5d35, type: 3}
       propertyPath: m_Name
       value: Road Split Line (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 0ee37198b24b2164fbbccfbe92fe5d35, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0ee37198b24b2164fbbccfbe92fe5d35, type: 3}
       propertyPath: m_LocalScale.x
@@ -17427,6 +17840,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Bus Stop (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 8fa324388c16b5c4eac9846338b35b17, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 8fa324388c16b5c4eac9846338b35b17, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.04935022
@@ -17532,6 +17949,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Props_Hydrant (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
+      propertyPath: m_TagString
+      value: Food
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: e0e851c58997b9c438fae494e3412749, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.16450073
@@ -17632,6 +18053,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: bc532b78ce09f234ea01da2deecfe035, type: 3}
       propertyPath: m_Name
       value: Building_Restaurant (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: bc532b78ce09f234ea01da2deecfe035, type: 3}
+      propertyPath: m_TagString
+      value: Food
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: bc532b78ce09f234ea01da2deecfe035, type: 3}
       propertyPath: m_LocalScale.x
