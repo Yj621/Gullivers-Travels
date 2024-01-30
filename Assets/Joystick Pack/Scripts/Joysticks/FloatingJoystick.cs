@@ -10,7 +10,7 @@ public class FloatingJoystick : Joystick
         base.Start();
         background.gameObject.SetActive(false);
     }
-
+    
     public override void OnPointerDown(PointerEventData eventData)
     {
         background.anchoredPosition = ScreenPointToAnchoredPosition(eventData.position);

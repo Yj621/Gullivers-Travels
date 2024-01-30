@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
     public FloatingJoystick joystick; // FloatingJoystick 참조를 저장하기 위한 변수
     public float moveSpeed = 5f; // 플레이어의 이동 속도
     public float growthRate = 0.1f; // 플레이어 성장 속도
-
+    
     // Update is called once per frame
     void Update()
     {
@@ -20,15 +20,24 @@ public class Player : MonoBehaviour
         transform.position += movement * moveSpeed * Time.deltaTime;
     }
 
-
     void OnTriggerEnter(Collider other)
     {
-        if (other.CompareTag("Food") && other.transform.localScale.x < transform.localScale.x)
+        if (other.CompareTag("Food"))
         {
-            // 작은 물체만 흡수
-            AbsorbObject(other.gameObject);
+            float otherScale = other.transform.localScale.x; // 다른 물체의 크기 가져오기
+
+            if (otherScale < transform.localScale.x)
+            {
+                // 작은 물체만 흡수
+                AbsorbObject(other.gameObject);
+            }
+            else
+            {
+                Debug.Log("플레이어보다 큰 물체입니다. 크기: " + otherScale);
+            }
         }
     }
+
 
     void AbsorbObject(GameObject objectToAbsorb)
     {
